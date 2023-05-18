@@ -1,3 +1,48 @@
+/* This code creates a button with a class name "myButton" and sets its color to red. The button is then styled to have a border, and a hover effect. The code also creates 5 buttons with different colors. */
+
 .myButton{
 	color:red;
+	/*border: 1px solid #000000;*/
+	border-radius: 5px;
+	background-color: #FFFFFF;
+	padding: 5px 10px 5px 10px;
+	text-decoration: none;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+
+	
+	}
+
+	.secondButton{
+	color:blue;
+	/*border: 1px solid #000000;*/
+	border-radius: 5px;
+	background-color: #FFFFFF;
+	padding: 5px 10px 5px 10px;
+	text-decoration: none;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+
+	
+	}
+
+	.thirdButton{
+	color:green;
+	/*border: 1px solid #000000;*/
+	border-radius: 5px;
+	background-color: #FFFFFF;
+	padding: 5px 10px 5px 10px;
+	text-decoration: none;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+
+	
+	}
+	
+
+
 }
+
